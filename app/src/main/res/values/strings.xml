@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AnblicksCodeChallenge</string>
+    <string name="title">title</string>
+    <string name="description">description</string>
+    <string name="dj_name">dj</string>
+    <string name="error_title">Error Occurred</string>
+    <string name="genre">genre</string>
+    <string name="dj_email">dj email</string>
+    <string name="dj">dj</string>
+    <string name="listeners">listeners</string>
+</resources>
